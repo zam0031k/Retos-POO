@@ -6,6 +6,7 @@
 ---
 
 ## 📚 Índice de Retos
+**Tecnologías:** `Python` `UML`
 
 ### ✅ [Reto 01: Fundamentos de Python](https://github.com/zam0031k/Reto_01)
 **Ejercicios básicos de programación**
@@ -15,8 +16,6 @@
 - Análisis de palabras con caracteres idénticos
 - Cálculo de mayor suma consecutiva
 
-**Tecnologías:** `Python`
-
 ---
 
 ### ✅ [Reto 02: Modelado de Clases - Restaurante](https://github.com/zam0031k/Reto_02)
@@ -25,8 +24,6 @@
 - Relaciones de composición y asociación
 - Diagramas Mermaid para visualización
 
-**Tecnologías:** `Python` `Mermaid` `UML`
-
 ---
 
 ### ✅ [Reto 03: Herencia y Composición - Sistema de Pedidos](https://github.com/zam0031k/Reto_03)
@@ -34,8 +31,6 @@
 - Clases MenuItem (Beverage, Appetizer, MainCourse)
 - Sistema de órdenes con cálculo de totales y descuentos
 - Diagramas de clases con herencia
-
-**Tecnologías:** `Python` `POO` `Herencia`
 
 ---
 
@@ -46,8 +41,6 @@
 - Implementación de encapsulamiento con getters/setters
 - Múltiples tipos de triángulos y rectángulos
 
-**Tecnologías:** `Python` `Geometría` `Encapsulamiento`
-
 ---
 
 ### ✅ [Reto 05: Organización en Paquetes](https://github.com/zam0031k/reto_05)
@@ -56,8 +49,6 @@
 - Estructura modular con paquetes
 - Comparación de arquitecturas
 
-**Tecnologías:** `Python` `Módulos` `Paquetes`
-
 ---
 
 ### ✅ [Reto 06: Manejo de Excepciones](https://github.com/zam0031k/reto_06)
@@ -65,8 +56,6 @@
 - Validación de entradas de usuario
 - Excepciones personalizadas (`ErrorPalindromo`)
 - Manejo de errores en operaciones aritméticas y geométricas
-
-**Tecnologías:** `Python` `Exception Handling`
 
 ---
 
@@ -77,8 +66,6 @@
 - Interfaz de pagos (tarjeta/efectivo)
 - Almacenamiento en JSON
 
-**Tecnologías:** `Python` `Queue` `JSON` `Interfaces`
-
 ---
 
 ### ✅ [Reto 08: Iteradores Personalizados](https://github.com/zam0031k/reto_08)
@@ -86,8 +73,6 @@
 - Clase `IterOrder` para recorrer elementos de órdenes
 - Protocolo de iteración (`__iter__` y `__next__`)
 - Visualización detallada de pedidos
-
-**Tecnologías:** `Python` `Iteradores` `Protocolos`
 
 ---
 
@@ -98,30 +83,22 @@
 - Decorador personalizado `timing_decorator` para medición de rendimiento
 - Arquitectura modular y extensible
 
-**Tecnologías:** `Python` `Decoradores` `Properties` `Optimization`
-
 ---
 
 ## 🛠 Conceptos Aplicados
 
-- ✔ Programación Orientada a Objetos
-- ✔ Herencia y Polimorfismo
-- ✔ Encapsulamiento
-- ✔ Composición y Agregación
-- ✔ Excepciones personalizadas
-- ✔ Estructuras de datos (Queue, Named Tuples)
-- ✔ Iteradores y generadores
-- ✔ Decoradores
-- ✔ Properties
-- ✔ Modularización y paquetes
-- ✔ Diagramas UML con Mermaid
-- ✔ Persistencia de datos (JSON)
-
----
-
-## 📖 Sobre el Proyecto
-
-Estos retos fueron desarrollados como parte del curso de **Programación Orientada a Objetos** en la Universidad Nacional de Colombia. Cada reto construye sobre los conceptos aprendidos en los anteriores, creando una progresión lógica en el aprendizaje de POO.
+- Programación Orientada a Objetos
+- Herencia y Polimorfismo
+- Encapsulamiento
+- Composición y Agregación
+- Excepciones personalizadas
+- Estructuras de datos básicas
+- Iteradores y generadores
+- Decoradores
+- Properties
+- Modularización y paquetes
+- Diagramas UML con Mermaid
+- Persistencia de datos (JSON)
 
 ---
 
