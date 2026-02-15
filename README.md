@@ -1,2 +1,19 @@
-# Retos-POO
-Colección de los 9 retos desaroollados en el curos de Programación Orientada a Objetos - Universidad Nacional de Colombia
+# 🎯 Retos de Programación Orientada a Objetos
+
+> Colección de retos y ejercicios del curso de POO - Universidad Nacional de Colombia  
+> Estudiante: Samuel Fajardo
+
+---
+
+## 📚 Índice de Retos
+
+### ✅ [Reto 01: Fundamentos de Python](https://github.com/zam0031k/Reto_01)
+…---
+
+
+
+<div align="center">
+  
+**🐍 Python | 🎓 POO | 💻 Universidad Nacional de Colombia**
+
+</div>
